@@ -72,3 +72,6 @@ docker-compose up -d
     "resultObj": "http://127.0.0.1:3000/images/c1e17b0f-513d-46de-ae74-e0d20ae52bd7.png"
 }
 ```
+
+- 结果图示例
+![](./example.png)
